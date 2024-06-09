@@ -2,4 +2,4 @@
 
 ## License
 
-Please do refer to [LICENSE.md](LICENSE.md) file
+This project is licensed under "All Rights Reserved".See the [LICENSE.md](LICENSE.md) file for details.
