@@ -1,5 +1,5 @@
 # Mental-Health-ML-helper
 
-##License
+## License
 
 Please do refer to [LICENSE.md](LICENSE.md) file
