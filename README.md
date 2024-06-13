@@ -1,4 +1,4 @@
-# Mental-Health-ML-helper
+# Negative-Positive-Identifier
 
 ## License
 
